@@ -1,2 +1,2 @@
-# project_ignition
+# projectignition
 That's our rocket-building website
